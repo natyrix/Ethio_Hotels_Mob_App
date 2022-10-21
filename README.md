@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## Web based app and mobile app using django rest framework that helps users to get track of hotels nearby and which helps users to search for a hotel using different parameters. (HTML5/JS, Django(Python), MySQL).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
